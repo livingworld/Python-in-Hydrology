@@ -1,5 +1,24 @@
-# Python-in-Hydrology
+Details
+=========================================================================
+This book is written by,
+Mr. Sat Kumar Tomer
+satkumartomer@gmail.com
 
-翻译不恰当处忘见谅，这也是我初次尝试，还不晓得的能走多远呢，嘿嘿，开动啦~
+External links
+-------------------------------------------------------------------------
+Book on Python in Hydrology
+http://www.greenteapress.com/pythonhydro/pythonhydro.html
 
-该书籍来自[Python in Hydrology](http://greenteapress.com/pythonhydro/pythonhydro.html)，一本小书，介绍了python在水文中的应用，作者[Sat Kumar Tomer - Google Scholar Citations](https://scholar.google.com/citations?user=L7RClLcAAAAJ&hl=en)。
+Source code is available at
+https://code.google.com/archive/p/python-in-hydrology/source
+
+License
+-------------------------------------------------------------------------
+GNU Free Documentation License
+http://www.gnu.org/copyleft/fdl.html
+
+Additional Details
+-------------------------------------------------------------------------
+Translation by,
+Mr.Lai Hetao
+yuanhengzhenli@gmail.com
